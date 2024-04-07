@@ -3,12 +3,26 @@
 ## Version 0.1 (April)
 - All basic player commmands
 - Gameplay foundation
+- Leveling
 - Shop, Hut, Townhall, Port 
 - Inventory
 - Weapon and gears
 - First playable location (Tutorisle)
 - Mobs (Pig, Boar)
-- Mob loot (Not confirmed)
+- Mob drop
+
+|feature|status|
+|---|---|
+|Change direction|Done|
+|Battle|75%|
+|Inventory|Done|
+|Equip item|Done|
+|Unequip item|Done|
+|leveling|0%|
+|Shop|0%|
+|Hut|0%|
+|Townhall|0%|
+|Port|0%|
 
 ## Version 0.2 (May)
 - Weekly quest
